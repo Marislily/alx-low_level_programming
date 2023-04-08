@@ -9,7 +9,7 @@
 
 void _puts(char *str)
 {
-	_puts("\"Programming is like building a multilingual puzzle");
+	_puts("\"Programming is like building a multilingual puzzle\"n");
 	return (0);
 }
 
@@ -20,6 +20,6 @@ void _puts(char *str)
  */
 int main(void)
 {
-	_puts("\"Programming is like building a multilingual puzzle");
+	_puts("\"Programming is like building a multilingual puzzle\"n");
 	return (0);
 }
